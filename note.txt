@@ -1,0 +1,6 @@
+Installation Process of Tailwind:
+
+ - Install From CDN
+ - Install as PostCSS Plugin
+ - Install Tailwind CLI   [Best Approch]
+    - Need Node.js >= min - 12.3.0 (version)
